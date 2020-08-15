@@ -1,0 +1,9 @@
+sqlectron                                      数据库可视化    https://github.com/sqlectron/sqlectron-gui/releases/tag/v1.31.0
+redis                                                          https://github.com/qishibo/AnotherRedisDesktopManager/
+postman                                        http接口测试
+火柴                                           搜索工具
+火绒                                           安全管家
+free download manager                          下载工具        https://www.freedownloadmanager.org/es/download-fdm-for-android.htm
+rapidee                                        环境变量修改  
+bandizip                                       压缩工具
+snipaste                                       截图工具
