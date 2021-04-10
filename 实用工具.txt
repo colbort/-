@@ -1,11 +1,12 @@
-sqlectron    £¬                       Êı¾İ¿â¿ÉÊÓ»¯   £¬ https://github.com/sqlectron/sqlectron-gui/releases/tag/v1.31.0
-redis        £¬                       https://github.com/qishibo/AnotherRedisDesktopManager/
-postman      £¬                       http½Ó¿Ú²âÊÔ
-»ğ²ñ          £¬                      ËÑË÷¹¤¾ß
-»ğÈŞ           £¬                     °²È«¹Ü¼Ò
-free download manager   £¬            ÏÂÔØ¹¤¾ß
-rapidee         £¬                    »·¾³±äÁ¿ĞŞ¸Ä  
-bandizip       £¬                     Ñ¹Ëõ¹¤¾ß
-snipaste           £¬                 ½ØÍ¼¹¤¾ß
-qtµÚÈı·½¿â¼¯ºÏ   £¬                   https://www.cnblogs.com/findumars/p/5272762.html       £¬          https://api.kde.org/
-qtÇå»ª¾µÏñÕ¾    £¬                    https://mirrors.tuna.tsinghua.edu.cn/qt/archive/qt/
+sqlectron    ï¼Œ                       æ•°æ®åº“å¯è§†åŒ–   ï¼Œ https://github.com/sqlectron/sqlectron-gui/releases/tag/v1.31.0
+redis        ï¼Œ                       https://github.com/qishibo/AnotherRedisDesktopManager/
+postman      ï¼Œ                       httpæ¥å£æµ‹è¯•
+ç«æŸ´          ï¼Œ                      æœç´¢å·¥å…·
+ç«ç»’           ï¼Œ                     å®‰å…¨ç®¡å®¶
+free download manager   ï¼Œ            ä¸‹è½½å·¥å…·
+rapidee         ï¼Œ                    ç¯å¢ƒå˜é‡ä¿®æ”¹  
+bandizip       ï¼Œ                     å‹ç¼©å·¥å…·
+snipaste           ï¼Œ                 æˆªå›¾å·¥å…·
+qtç¬¬ä¸‰æ–¹åº“é›†åˆ   ï¼Œ                   https://www.cnblogs.com/findumars/p/5272762.html       ï¼Œ          https://api.kde.org/
+qtæ¸…åé•œåƒç«™    ï¼Œ                    https://mirrors.tuna.tsinghua.edu.cn/qt/archive/qt/
+GORM ä¸­æ–‡æ–‡æ¡£   ,                     https://jasperxu.com/#/Programming/Golang/GORM/
