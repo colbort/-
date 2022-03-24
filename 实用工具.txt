@@ -10,3 +10,4 @@ snipaste           ，                 截图工具
 qt第三方库集合   ，                   https://www.cnblogs.com/findumars/p/5272762.html       ，          https://api.kde.org/
 qt清华镜像站    ，                    https://mirrors.tuna.tsinghua.edu.cn/qt/archive/qt/
 GORM 中文文档   ,                     https://jasperxu.com/#/Programming/Golang/GORM/
+scoop                               https://oopsdc.com/post/scoop使用手册/
