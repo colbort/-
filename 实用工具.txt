@@ -11,3 +11,4 @@ qt第三方库集合   ，                   https://www.cnblogs.com/findumars/p
 qt清华镜像站    ，                    https://mirrors.tuna.tsinghua.edu.cn/qt/archive/qt/
 GORM 中文文档   ,                     https://jasperxu.com/#/Programming/Golang/GORM/
 scoop                               https://oopsdc.com/post/scoop使用手册/
+appium package自动化（入门指南）       https://www.kancloud.cn/testerhome/appium_docs_cn/2001598
