@@ -12,3 +12,4 @@ qt清华镜像站    ，                    https://mirrors.tuna.tsinghua.edu.cn
 GORM 中文文档   ,                     https://jasperxu.com/#/Programming/Golang/GORM/
 scoop                               https://oopsdc.com/post/scoop使用手册/
 appium package自动化（入门指南）       https://www.kancloud.cn/testerhome/appium_docs_cn/2001598
+面向 产品经理 的最佳mac应用软件.        https://www.macwk.com/special/pm
