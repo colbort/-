@@ -7,10 +7,13 @@ free download manager   ，            下载工具
 rapidee         ，                    环境变量修改  
 bandizip       ，                     压缩工具
 snipaste           ，                 截图工具
-qt第三方库集合   ，                   https://www.cnblogs.com/findumars/p/5272762.html       ，          https://api.kde.org/
+qt第三方库集合   ，                    https://www.cnblogs.com/findumars/p/5272762.html       ，          https://api.kde.org/
 qt清华镜像站    ，                    https://mirrors.tuna.tsinghua.edu.cn/qt/archive/qt/
 GORM 中文文档   ,                     https://jasperxu.com/#/Programming/Golang/GORM/
 scoop                               https://oopsdc.com/post/scoop使用手册/
 appium package自动化（入门指南）       https://www.kancloud.cn/testerhome/appium_docs_cn/2001598
-面向 产品经理 的最佳mac应用软件.        https://www.macwk.com/special/pm
+面向 产品经理 的最佳mac应用软件          https://www.macwk.com/special/pm
 mongo client                        https://www.mongodb.com/products/compass
+etcd  manager                       https://etcdmanager.io
+go micro                            http://www.codebaoku.com/micro/micro-index.html
+telegram bot test.                  https://telegram-bot-sdk.readme.io/reference/getme
