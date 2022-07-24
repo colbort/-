@@ -1,0 +1,51 @@
+{
+    "domains": [
+      {
+        "domain": "https://7haxi.com",
+        "weight": 1,
+        "type": "api"
+      },
+      {
+        "domain": "https://service.linkflower.link",
+        "testUrl": "",
+        "weight": 2,
+        "type": "service"
+      },
+      {
+        "domain": "https://tronscan.io",
+        "testUrl": "",
+        "weight": 2,
+        "type": "tron"
+      }
+    ],
+    "updates": [
+      {
+        "url": "https://gitee.com/huihu78/hash/blob/master/json.json",
+        "weight": 1,
+        "type": "http",
+        "params": ""
+      },
+      {
+        "url": "https://gitee.com/qinlang221/hash/blob/master/json.json",
+        "weight": 1,
+        "type": "http",
+        "params": ""
+      },{
+        "url": "https://gitee.com/xiaoxi89/hash/blob/master/json.json",
+        "weight": 1,
+        "type": "http",
+        "params": ""
+      },{
+        "url": "https://gitee.com/fengzun66/hash/blob/master/json.json",
+        "weight": 1,
+        "type": "http",
+        "params": ""
+      }
+    ],
+    "hash": "82edbe92f1944bc8b970fa99828dd370"
+  }
+
+
+
+
+  
